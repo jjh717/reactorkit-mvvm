@@ -1,0 +1,6 @@
+module Pods_reactorkit_mvvm {
+  umbrella header "Pods-reactorkit-mvvm-umbrella.h"
+
+  export *
+  module * { export * }
+}
