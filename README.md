@@ -1,7 +1,5 @@
 # reactorkit-mvvm
-
-target 'reactorkit-mvvm' do
-
+ 
     pod 'Alamofire', '~> 5.5'
     
     pod 'Kingfisher', '~> 6.0'
@@ -19,8 +17,7 @@ target 'reactorkit-mvvm' do
     pod 'SnapKit', '~> 5.0.0'    
     
     pod 'Then'
-    
-end
+   
 
 ![simulator_screenshot_10809855-5B45-4724-9DA5-FDD6930DE99C](https://user-images.githubusercontent.com/5820255/144981101-ec870ba7-8913-43ea-8d2d-7aa25c6da5f4.png)
 
